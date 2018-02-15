@@ -9,12 +9,12 @@ subject Project 2, under supervision of lecturer
 ## What is a game pillar?
 Every time we begin a game design from zero, we need to stablish a few parameters that delimitate and guide the process of design and production. These parameters are known as **Pillar Design Games** and they are the fundamental basis of videogames. Of course, every different game has a different set of Game Pillars (depending of the type of material that designers want to make) but we must take in account that these Pillars will be the characteristics that the videogame will take more in consideration in the production and design of itself. In conclusion, they are about 3 to 8 primary and fundamental concepts that our game wants to explore and be based on. Also, they must be respected and fulfill once they are stablished.  
   
-![Game Pillars](https://github.com/orioldedios/Project-II---Personal-Research---Game-Pillars-/blob/master/docs/Game%20Pillars.png)
+![Game Pillars](/docs/Game Pillars.png)
 
 ## What good does it do to?
 Game Pillars are essential in every videogame for many reasons. They help your team to understand how the project will be developed and make more easy and accurate their compression about how it should be done. These issues and aspects are usefull to create a cohesive project and delimit it. They are our first and last step for the game design decisions.
 
-![Thinking](https://github.com/orioldedios/Project-II---Personal-Research---Game-Pillars-/blob/master/docs/Thinking.jpg)
+![Thinking](/docs/Thinking.jpg)
 
 ## Some examples.
 As we have said before, all videogames developed have their Game Pillars. One example is *The Last of Us*, that has the following ones:  
@@ -24,25 +24,25 @@ As we have said before, all videogames developed have their Game Pillars. One ex
 **AI partners:** The game is all about building a relationship between the player’s character with the AI partners you meet throughout your journey.  
 **Stealth:** Combat is used in this game, but if you avoid it, the game can be a lot easier and comfortable. So, the player is encouraged to play more stealthily.  
 
-![TLoU](https://github.com/orioldedios/Project-II---Personal-Research---Game-Pillars-/blob/master/docs/TLoU.jpg)
+![TLoU](/docs/TLoU.jpg)
 
 Also, there are some studios that have their own's Game Pillars for all their videogames. *Paradox -interactive* is an example:  
 
-![paradox-game-pillars](https://github.com/orioldedios/Project-II---Personal-Research---Game-Pillars-/blob/master/docs/paradox-game-pillars.jpg)
+![paradox-game-pillars](/docs/paradox-game-pillars.jpg)
 
 ## How can we fix a game pillar?
 The process to fix a game pillar into a game is quite simple. However, we must be carefully. Here you have one method for choose wisely:
 
 **1.** First, if you don’t have any ideas about how the game will be, you can do a **Brain Storming** writing down the maximum concepts about how your game can be.  
-![BS](https://github.com/orioldedios/Project-II---Personal-Research---Game-Pillars-/blob/master/docs/BS.jpg)  
+![BS](/docs/BS.jpg)  
 **2.** Then, when you have a list, you must arrange all this ideas in three blocks:  
 **Before playing:** It is for all concepts that a future player will take in account before playing (aparency, themes, art...).  
 **In Game:** This involve all that players will be doing when playing (gameplay mechanics).  
 **After Playing:** Basically, it is for the ideas related with replay (challenge, rankings...).  
 **3.** Then you must pass each concept for these filters:  
-![Filters_1](https://github.com/orioldedios/Project-II---Personal-Research---Game-Pillars-/blob/master/docs/Filters_1.png)  
+![Filters_1](/docs/Filters_1.png)  
 **4.** Finally, you should ensure yourself that your ideas are original.  
-![Filters_2](https://github.com/orioldedios/Project-II---Personal-Research---Game-Pillars-/blob/master/docs/Filters_2.png)  
+![Filters_2](/docs/Filters_2.png)  
 
 **NOTE:** At least we must have from 3 to 8 pillars. If we have too many we can feed up the player. Also, if we have Pillars in excess, we will take the risk of saturate our development team with work.  
 
@@ -54,7 +54,7 @@ Although we have elected our Pillar Design Games we must take in account that in
 **Relevance:**  All you put in the game have to be relevant. Adding a new concept just because *it's cool* is usually a bad idea.  
 **Don’t mess up something that works:** If you create a game based in existing Game Pillars and you are going to add or change one of them, you can also spoil the gameplay (unbalance or hurt existing functional mechanics, for example).  
 **Ask ourselves two questions:** This mechanic/idea fit with the design? It satisfies some of our Game Pillars? If the answer is NO, we must discard the idea (as much we like it).  
-![Filters_3](https://github.com/orioldedios/Project-II---Personal-Research---Game-Pillars-/blob/master/docs/Filters_3.png)
+![Filters_3](/docs/Filters_3.png)
 
 **NOTE:** We always have to think about the Game Pillars before adding new mechanics/concepts.  
 
