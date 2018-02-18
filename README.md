@@ -6,7 +6,7 @@ subject Project 2, under supervision of lecturer
 [Ricard Pillosu](https://es.linkedin.com/in/ricardpillosu).
 
 ## What is a game pillar?
-Every time we begin a game design from zero, we need to stablish a few parameters that delimitate and guide the process of design and production. These parameters are known as **Pillar Design Games** and they are the fundamental basis of videogames. Of course, every different game has a different set of Game Pillars (depending of the type of material that designers want to make) but we must take in account that these Pillars will be the characteristics that the videogame will take more in consideration in the production and design of itself. In conclusion, they are about 3 to 8 primary and fundamental concepts that our game wants to explore and be based on. Also, they must be respected and fulfill once they are stablished.  
+Every time we begin a game design from zero, we need to stablish a few parameters that delimitate and guide the process of design and production. These parameters are known as **Game Design Pillars** and they are the fundamental basis of videogames. Of course, every different game has a different set of Game Pillars (depending of the type of material that designers want to make) but we must take in account that these Pillars will be the characteristics that the videogame will take more in consideration in the production and design of itself. In conclusion, they are about 3 to 8 primary and fundamental concepts that our game wants to explore and be based on. Also, they must be respected and fulfill once they are stablished.  
   
 ![Game Pillars](https://github.com/orioldedios/Design-Pillar-Games/blob/master/docs/Game%20Pillars.png?raw=true)
 
