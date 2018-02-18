@@ -107,3 +107,4 @@ In essence, Game Design Pillars are concepts and ideas fixed at the beginning of
 [Game Dev Underground - Game Design Document Template](http://gdu.io/blog/game-design-document-template-one-page-super-easy/)  
 [The Acagamic - Communication and Game Design Documents](http://www.acagamic.com/courses/infr1330-2014/communication-and-game-design-documents/)  
 [Diablo 3’s Seven Design Pillars](https://www.diabloii.net/blog/comments/diablo-3s-seven-design-pillars-2)  
+[Game Pillars Presentation](https://docs.google.com/presentation/d/1MHkSAB2uyeehSC2XLsz8LGctWQfRXxy2OFxvXUvADFU/edit?usp=sharing)
