@@ -16,7 +16,7 @@ Game Pillars are essential in every videogame for many reasons. They help your t
 ![Thinking](/docs/Thinking.jpg)
 
 ## Some examples.
-As we have said before, all videogames developed have their Game Pillars. Here are a few samples:  
+As we have said before, all videogames developed have their Game Pillars. There are some ones here:  
 
 ### *The Last of Us:*  
 
@@ -38,16 +38,16 @@ As we have said before, all videogames developed have their Game Pillars. Here a
 
 ### *Crypt of the NecroDancer:*  
 
-**Music and Rithm:** The essential mechanic in this game consist in following the rithm of the music.  
+**Music and Rhythm:** The essential mechanic in this game consist in following the rithm of the music.  
 **Items and weapons:** CotN have a giant variety of weapons and items. Each one is different, unique and have a special way of killing enemies.  
-**Enemies:** From bosses to minions, this game have a mount of enemies with different skills and movements. Every level have their set with a giant variety.
+**Enemies:** From bosses to minions, this game have a hudge amount of enemies with different skills and movements. Every level have their set with a giant variety.
 
 ![Crypt of the NecroDancer](/docs/CryptoftheNecroDancer.jpg)  
 
 ### *Undertale:*  
 
-**Narrative:** Even if it doesn't look that way, the most important in Undertale is not the "tale", it's the way how it's told. The rithm of dialogs, events, music... This all make an incredibly gameplay experience fixing the Narrative as the core of this game.  
-**Combat:** Apart of solving puzzles, the combat is a very important mechanic in this game. It's maked by turns and have more action than it at first appears.  
+**Narrative:** Even if it doesn't look that way, the most important in Undertale is not the "tale", it's the way how it's told. The rhythm of dialogs, events, music... This all make an incredibly gameplay experience fixing the Narrative as the core of this game.  
+**Combat:** Apart of solving puzzles, the combat is a very important mechanic in this game. It's made by turns and have more action than it at first appears.  
 **Characters:** During the game, the player will met a lot of differents characters. Enemies, bosses, NPCs... all have a different personality and are unique.  
 **Choice:** Undertale is a game that gives you the chance of forgiving every beaten enemy. This choice determinates the story and what kind of player you are.   
 
@@ -76,11 +76,11 @@ The process to fix a game pillar into a game is quite simple. However, we must b
 ## Bad Game Pillars
 After talking about what are Game Pillars and how can we fix them, we also have to say that there are some bad ideas of Game Pillars that we have to avoid. Here are some:
 
-**Empty words:** Concepts like "make a funny game" or "a game thet sells itself" are some of the worst in the game design. All Pillars must have one solid awnser for **How can we do it?** and if this awnser is something similar to "I don't know..." or "Doing it!" we have to start thinking other Game Pillars.  
-**Tasks:** Another bad decision is stablishing a task as a Game Pillar. Game Pillars must be a simple word or concept that synthesize an idea, but never a task. Pillars like "an accesible minimap" focus the attention in somethig that must be a specific element of the game and harm the global design.  
-**Thecnical concepts:** As the same as "tasks", thecnical concepts are bad examples of Game Pillars. Of course we have to take in mind thechnical resources when we are designing, but making this a Game Pillar will affect to our game design in a bad way.  
+**Empty words:** Concepts like "make a funny game" or "a game that sells itself" are some of the worst in the game design. All Pillars must have one solid answer for **How can we do it?** and if this answer is something similar to "I don't know..." or "Doing it!" we have to start thinking other Game Pillars.  
+**Tasks:** Another bad decision is establishing a task as a Game Pillar. Game Pillars must be a simple word or concept that synthesize an idea, but never a task. Pillars like "an accesible minimap" focus the attention in somethig that must be a specific element of the game and harm the global design.  
+**Technical concepts:** As the same as "tasks", technical concepts are bad examples of Game Pillars. Of course we have to take in mind technical resources when we are designing, but making this a Game Pillar will affect to our game design in a bad way.  
 
-Finally, there also are some sayings that every game designer have to known as toxic:  
+Finally, there are also some sayings that every game designer have to known as toxic:  
 
 ![b_g_p](/docs/Bad_game_pillars.png)  
 
