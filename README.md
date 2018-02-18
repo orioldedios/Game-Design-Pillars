@@ -16,7 +16,9 @@ Game Pillars are essential in every videogame for many reasons. They help your t
 ![Thinking](/docs/Thinking.jpg)
 
 ## Some examples.
-As we have said before, all videogames developed have their Game Pillars. One example is *The Last of Us*, that has the following ones:  
+As we have said before, all videogames developed have their Game Pillars. Here are a few samples:  
+
+### *The Last of Us:*  
 
 **Crafting:** Along the videogame, there are a lot of abandoned objects for all the map. So, for making a good progress, crafting with this dump objects are necessary.  
 **Story:** As the most of *Naughty Dog*'s videogames, the Story is one essential part in *The Last of Us*.  
@@ -24,6 +26,32 @@ As we have said before, all videogames developed have their Game Pillars. One ex
 **Stealth:** Combat is used in this game, but if you avoid it, the game can be a lot easier and comfortable. So, the player is encouraged to play more stealthily.  
 
 ![TLoU](/docs/TLoU.jpg)
+
+### *Legend of Zelda: Breath of the Wild:*  
+
+**Exploration:** Player are encouraged to explore, by being able to go to any area they wish whenever they wish.  
+**Movement:**  Breath of the Wild offers so many modes of transport. Moving through this world is made into a fantastic experience through the diversity and fun of the movement in the world.  
+**Scavenging:** Players are constantly needing to go through the world and search for items. From weapons which break after a few battles, to the food players must use to regain health or help them traverse through all kind of environmental hazards.  
+**Options:** This game is praised all around for a number of options that are given to the player. From multiple ways to solve puzzles to the combat scenarios or how the player makes their way around the world.  
+
+
+
+### *Crypt of the NecroDancer:*  
+
+**Music and Rithm:** The essential mechanic in this game consist in following the rithm of the music.  
+**Items and weapons:** CotN have a giant variety of weapons and items. Each one is different, unique and have a special way of killing enemies.  
+**Enemies:** From bosses to minions, this game have a mount of enemies with different skills and movements. Every level have their set with a giant variety.
+
+
+
+### *Undertale:*  
+
+**Narrative:** Even if it doesn't look that way, the most important in Undertale is not the "tale", it's the way how it's told. The rithm of dialogs, events, music... This all make an incredibly gameplay experience fixing the Narrative as the core of this game.  
+**Combat:** Apart of solving puzzles, the combat is a very important mechanic in this game. It's maked by turns and have more action than it at first appears.  
+**Characters:** During the game, the player will met a lot of differents characters. Enemies, bosses, NPCs... all have a different personality and are unique.  
+**Choice:** Undertale is a game that gives you the chance of forgiving every beaten enemy. This choice determinates the story and what kind of player you are.   
+
+
 
 Also, there are some studios that have their own's Game Pillars for all their videogames. *Paradox -interactive* is an example:  
 
@@ -65,3 +93,4 @@ In essence, Game Design Pillars are concepts and ideas fixed at the beginning of
 [Technical Game Design  - Pillars](http://technicalgamedesign.blogspot.com.es/2011/04/pillars.html)  
 [Paradox Interactive Official Page](https://www.paradoxinteractive.com/en/)  
 [ThursDev - Game Design Pillars](https://www.youtube.com/watch?v=_EtxKlctpXw)
+[Game Dev Underground - Game Design Document Template](http://gdu.io/blog/game-design-document-template-one-page-super-easy/)
