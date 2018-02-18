@@ -42,7 +42,7 @@ As we have said before, all videogames developed have their Game Pillars. Here a
 **Items and weapons:** CotN have a giant variety of weapons and items. Each one is different, unique and have a special way of killing enemies.  
 **Enemies:** From bosses to minions, this game have a mount of enemies with different skills and movements. Every level have their set with a giant variety.
 
-![Crypt of the NecroDancer](/docs/Crypt of the NecroDancer.jpg)  
+![Crypt of the NecroDancer](/docs/Cryptofthe NecroDancer.jpg)  
 
 ### *Undertale:*  
 
