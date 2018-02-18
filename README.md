@@ -1,9 +1,9 @@
 ﻿# GAME PILLARS
 
-“I am [Oriol de Dios](https://www.linkedin.com/in/orioldedios), student of the
+I am [Oriol de Dios](https://www.linkedin.com/in/orioldedios), student of the
 [Bachelor’s Degree in Video Games by UPC at CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs/). This content is generated for the second year’s
 subject Project 2, under supervision of lecturer
-[Ricard Pillosu](https://es.linkedin.com/in/ricardpillosu).”
+[Ricard Pillosu](https://es.linkedin.com/in/ricardpillosu).
 
 ## What is a game pillar?
 Every time we begin a game design from zero, we need to stablish a few parameters that delimitate and guide the process of design and production. These parameters are known as **Pillar Design Games** and they are the fundamental basis of videogames. Of course, every different game has a different set of Game Pillars (depending of the type of material that designers want to make) but we must take in account that these Pillars will be the characteristics that the videogame will take more in consideration in the production and design of itself. In conclusion, they are about 3 to 8 primary and fundamental concepts that our game wants to explore and be based on. Also, they must be respected and fulfill once they are stablished.  
@@ -25,7 +25,7 @@ As we have said before, all videogames developed have their Game Pillars. Here a
 **AI partners:** The game is all about building a relationship between the player’s character with the AI partners you meet throughout your journey.  
 **Stealth:** Combat is used in this game, but if you avoid it, the game can be a lot easier and comfortable. So, the player is encouraged to play more stealthily.  
 
-![TLoU](/docs/TLoU.jpg)
+![TLoU](/docs/TLoU.jpg)  
 
 ### *Legend of Zelda: Breath of the Wild:*  
 
@@ -34,7 +34,7 @@ As we have said before, all videogames developed have their Game Pillars. Here a
 **Scavenging:** Players are constantly needing to go through the world and search for items. From weapons which break after a few battles, to the food players must use to regain health or help them traverse through all kind of environmental hazards.  
 **Options:** This game is praised all around for a number of options that are given to the player. From multiple ways to solve puzzles to the combat scenarios or how the player makes their way around the world.  
 
-
+![BOTW](/docs/botw.jpg)  
 
 ### *Crypt of the NecroDancer:*  
 
@@ -42,7 +42,7 @@ As we have said before, all videogames developed have their Game Pillars. Here a
 **Items and weapons:** CotN have a giant variety of weapons and items. Each one is different, unique and have a special way of killing enemies.  
 **Enemies:** From bosses to minions, this game have a mount of enemies with different skills and movements. Every level have their set with a giant variety.
 
-
+![Crypt of the NecroDancer](/docs/Crypt of the NecroDancer.jpg)  
 
 ### *Undertale:*  
 
@@ -51,7 +51,7 @@ As we have said before, all videogames developed have their Game Pillars. Here a
 **Characters:** During the game, the player will met a lot of differents characters. Enemies, bosses, NPCs... all have a different personality and are unique.  
 **Choice:** Undertale is a game that gives you the chance of forgiving every beaten enemy. This choice determinates the story and what kind of player you are.   
 
-
+![Undertale](/docs/Undertale-HD-Wallpaper.png)  
 
 Also, there are some studios that have their own's Game Pillars for all their videogames. *Paradox -interactive* is an example:  
 
@@ -85,6 +85,17 @@ Although we have elected our Pillar Design Games we must take in account that in
 
 **NOTE:** We always have to think about the Game Pillars before adding new mechanics/concepts.  
 
+## Bad Game Pillars
+After talking about what are Game Pillars and how can we fix them, we also have to say that there are some bad ideas of Game Pillars that we have to avoid. Here are some:
+
+**Empty words:** Concepts like "make a funny game" or "a game thet sells itself" are some of the worst in the game design. All Pillars must have one solid awnser for **How can we do it?** and if this awnser is something similar to "I don't know..." or "Doing it!" we have to start thinking other Game Pillars.  
+**Tasks:** Another bad decision is stablishing a task as a Game Pillar. Game Pillars must be a simple word or concept that synthesize an idea, but never a task. Pillars like "an accesible minimap" focus the attention in somethig that must be a specific element of the game and harm the global design.  
+**Thecnical concepts:** As the same as "tasks", thecnical concepts are bad examples of Game Pillars. Of course we have to take in mind thechnical resources when we are designing, but making this a Game Pillar will affect to our game design in a bad way.  
+
+Finally, there also are some sayings that every game designer have to known as toxic:  
+
+![b_g_p](/docs/Bad_game_pillars.png)  
+
 ## Summary
 In essence, Game Design Pillars are concepts and ideas fixed at the beginning of a game. They inform of the global game design from the start and help us to make accurate decisions (and avoid fails). They also are a tool that make a cohesive design. Finally, there's not a perfect static design, so we must keep in mind our Game Pillars every time we work with our project. 
 
@@ -94,3 +105,5 @@ In essence, Game Design Pillars are concepts and ideas fixed at the beginning of
 [Paradox Interactive Official Page](https://www.paradoxinteractive.com/en/)  
 [ThursDev - Game Design Pillars](https://www.youtube.com/watch?v=_EtxKlctpXw)
 [Game Dev Underground - Game Design Document Template](http://gdu.io/blog/game-design-document-template-one-page-super-easy/)
+[The Acagamic - Communication and Game Design Documents](http://www.acagamic.com/courses/infr1330-2014/communication-and-game-design-documents/)  
+[Diablo 3’s Seven Design Pillars](https://www.diabloii.net/blog/comments/diablo-3s-seven-design-pillars-2)  
