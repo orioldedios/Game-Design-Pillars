@@ -42,7 +42,7 @@ As we have said before, all videogames developed have their Game Pillars. Here a
 **Items and weapons:** CotN have a giant variety of weapons and items. Each one is different, unique and have a special way of killing enemies.  
 **Enemies:** From bosses to minions, this game have a mount of enemies with different skills and movements. Every level have their set with a giant variety.
 
-![Crypt of the NecroDancer](/docs/Cryptofthe NecroDancer.jpg)  
+![Crypt of the NecroDancer](/docs/CryptoftheNecroDancer.jpg)  
 
 ### *Undertale:*  
 
@@ -73,6 +73,17 @@ The process to fix a game pillar into a game is quite simple. However, we must b
 
 **NOTE:** At least we must have from 3 to 8 pillars. If we have too many we can feed up the player. Also, if we have Pillars in excess, we will take the risk of saturate our development team with work.  
 
+## Bad Game Pillars
+After talking about what are Game Pillars and how can we fix them, we also have to say that there are some bad ideas of Game Pillars that we have to avoid. Here are some:
+
+**Empty words:** Concepts like "make a funny game" or "a game thet sells itself" are some of the worst in the game design. All Pillars must have one solid awnser for **How can we do it?** and if this awnser is something similar to "I don't know..." or "Doing it!" we have to start thinking other Game Pillars.  
+**Tasks:** Another bad decision is stablishing a task as a Game Pillar. Game Pillars must be a simple word or concept that synthesize an idea, but never a task. Pillars like "an accesible minimap" focus the attention in somethig that must be a specific element of the game and harm the global design.  
+**Thecnical concepts:** As the same as "tasks", thecnical concepts are bad examples of Game Pillars. Of course we have to take in mind thechnical resources when we are designing, but making this a Game Pillar will affect to our game design in a bad way.  
+
+Finally, there also are some sayings that every game designer have to known as toxic:  
+
+![b_g_p](/docs/Bad_game_pillars.png)  
+
 ## Things to take in account for not spoil our game
 Although we have elected our Pillar Design Games we must take in account that in every game development the design is changing continually, and we will make changes and additions during this process (adding mechanics, deleting items...). So, we must take some things into account:  
 
@@ -84,17 +95,6 @@ Although we have elected our Pillar Design Games we must take in account that in
 ![Filters_3](/docs/Filters_3.png)
 
 **NOTE:** We always have to think about the Game Pillars before adding new mechanics/concepts.  
-
-## Bad Game Pillars
-After talking about what are Game Pillars and how can we fix them, we also have to say that there are some bad ideas of Game Pillars that we have to avoid. Here are some:
-
-**Empty words:** Concepts like "make a funny game" or "a game thet sells itself" are some of the worst in the game design. All Pillars must have one solid awnser for **How can we do it?** and if this awnser is something similar to "I don't know..." or "Doing it!" we have to start thinking other Game Pillars.  
-**Tasks:** Another bad decision is stablishing a task as a Game Pillar. Game Pillars must be a simple word or concept that synthesize an idea, but never a task. Pillars like "an accesible minimap" focus the attention in somethig that must be a specific element of the game and harm the global design.  
-**Thecnical concepts:** As the same as "tasks", thecnical concepts are bad examples of Game Pillars. Of course we have to take in mind thechnical resources when we are designing, but making this a Game Pillar will affect to our game design in a bad way.  
-
-Finally, there also are some sayings that every game designer have to known as toxic:  
-
-![b_g_p](/docs/Bad_game_pillars.png)  
 
 ## Summary
 In essence, Game Design Pillars are concepts and ideas fixed at the beginning of a game. They inform of the global game design from the start and help us to make accurate decisions (and avoid fails). They also are a tool that make a cohesive design. Finally, there's not a perfect static design, so we must keep in mind our Game Pillars every time we work with our project. 
