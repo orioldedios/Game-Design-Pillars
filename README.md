@@ -6,14 +6,12 @@ subject Project 2, under supervision of lecturer
 [Ricard Pillosu](https://es.linkedin.com/in/ricardpillosu).
 
 ## What is a game pillar?
-Every time we begin a game design from zero, we need to stablish a few parameters that delimitate and guide the process of design and production. These parameters are known as **Game Design Pillars** and they are the fundamental basis of videogames. Of course, every different game has a different set of Game Pillars (depending of the type of material that designers want to make) but we must take in account that these Pillars will be the characteristics that the videogame will take more in consideration in the production and design of itself. In conclusion, they are about 3 to 8 primary and fundamental concepts that our game wants to explore and be based on. Also, they must be respected and fulfill once they are stablished.  
+"Every time we begin a game design from zero, we need to stablish a few parameters that delimitate and guide the process of design and production. These parameters are known as **Game Design Pillars** and they are the fundamental basis of videogames. Of course, every different game has a different set of Game Pillars (depending of the type of material that designers want to make) but we must take in account that these Pillars will be the characteristics that the videogame will take more in consideration in the production and design of itself. In conclusion, they are about 3 to 8 primary and fundamental concepts that our game wants to explore and be based on. Also, they must be respected and fulfill once they are stablished." - Max Pears Article - [Link Below](https://www.gamasutra.com/blogs/MaxPears/20171012/307469/Design_Pillars__The_Core_of_Your_Game.php)
   
 ![Game Pillars](https://github.com/orioldedios/Design-Pillar-Games/blob/master/docs/Game%20Pillars.png?raw=true)
 
 ## What good does it do to?
 Game Pillars are essential in every videogame for many reasons. They help your team to understand how the project will be developed and make more easy and accurate their compression about how it should be done. These issues and aspects are usefull to create a cohesive project and delimit it. They are our first and last step for the game design decisions.
-
-![Thinking](/docs/Thinking.jpg)
 
 ## Some examples.
 As we have said before, all videogames developed have their Game Pillars. There are some ones here:  
@@ -25,6 +23,8 @@ As we have said before, all videogames developed have their Game Pillars. There 
 **AI partners:** The game is all about building a relationship between the player’s character with the AI partners you meet throughout your journey.  
 **Stealth:** Combat is used in this game, but if you avoid it, the game can be a lot easier and comfortable. So, the player is encouraged to play more stealthily.  
 
+- Max Pears Article - [Link Below](https://www.gamasutra.com/blogs/MaxPears/20171012/307469/Design_Pillars__The_Core_of_Your_Game.php)
+
 ![TLoU](/docs/TLoU.jpg)  
 
 ### *Legend of Zelda: Breath of the Wild:*  
@@ -33,6 +33,8 @@ As we have said before, all videogames developed have their Game Pillars. There 
 **Movement:**  Breath of the Wild offers so many modes of transport. Moving through this world is made into a fantastic experience through the diversity and fun of the movement in the world.  
 **Scavenging:** Players are constantly needing to go through the world and search for items. From weapons which break after a few battles, to the food players must use to regain health or help them traverse through all kind of environmental hazards.  
 **Options:** This game is praised all around for a number of options that are given to the player. From multiple ways to solve puzzles to the combat scenarios or how the player makes their way around the world.  
+
+- Max Pears Article - [Link Below](https://www.gamasutra.com/blogs/MaxPears/20171012/307469/Design_Pillars__The_Core_of_Your_Game.php)
 
 ![BOTW](/docs/botw.jpg)  
 
